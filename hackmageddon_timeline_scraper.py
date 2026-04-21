@@ -14,12 +14,12 @@ What it does
 
 Usage
 -----
-python hackmageddon_timeline_scraper.py
-python hackmageddon_timeline_scraper.py --list-only
-python hackmageddon_timeline_scraper.py --output data/hackmageddon
-python hackmageddon_timeline_scraper.py --max-pages 5 --delay 1.5
-python hackmageddon_timeline_scraper.py --start-page 2 --end-page 4
-python hackmageddon_timeline_scraper.py --dry-run
+python hackmageddon_timeline_scraper_fixed.py
+python hackmageddon_timeline_scraper_fixed.py --list-only
+python hackmageddon_timeline_scraper_fixed.py --output data/hackmageddon
+python hackmageddon_timeline_scraper_fixed.py --max-pages 5 --delay 1.5
+python hackmageddon_timeline_scraper_fixed.py --start-page 2 --end-page 4
+python hackmageddon_timeline_scraper_fixed.py --dry-run
 """
 
 from __future__ import annotations
